@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nomeAluno": "Ana Silva",
+    "livro": "Clean Architecture",
+    "devolvidoEm": "2026-10-02T17:43:12.489Z"
+  },
+  {
+    "id": 2,
+    "nomeAluno": "Bruno",
+    "livro": "Refactoring",
+    "devolvidoEm": null
+  }
+]
